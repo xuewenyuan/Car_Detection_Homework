@@ -10,7 +10,7 @@ def in_range(number, test, thresh=0.2):
   return abs(number - test) < thresh
 
 #test_image = "test.bmp"
-img_path = "./test"
+img_path = "./data/test"
 #remote = "http://previews.123rf.com/images/aremac/aremac0903/aremac090300044/4545419-Lonely-car-on-an-empty-parking-lot-Stock-Photo.jpg"
 #urllib.urlretrieve(test_image, img_path)
 

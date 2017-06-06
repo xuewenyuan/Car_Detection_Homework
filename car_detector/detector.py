@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-datapath = "./train_34x94"
+datapath = "./data/train_34x94"
 SAMPLES = 450
 
 def path(cls,i):
